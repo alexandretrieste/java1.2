@@ -42,4 +42,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a [MIT License](https://choosealicense.com/licenses/mit/).
+
+## Contato
+
+Se você tiver alguma dúvida ou sugestão, entre em contato comigo no [GitHub](https://github.com/alexandretrieste).
